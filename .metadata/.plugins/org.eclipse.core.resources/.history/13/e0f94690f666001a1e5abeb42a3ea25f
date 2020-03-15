@@ -1,0 +1,5 @@
+package org.acme.quickstart.services;
+
+public class GreetingService {
+
+}
